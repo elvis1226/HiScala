@@ -1,0 +1,12 @@
+Using SDKMAN!, you can easily install Scala with sdk install scala
+On macOS you can also use Homebrew and existing Scala Formulae
+brew update
+brew install scala
+With MacPorts, you can get Scala using sudo port install scala2.xcommand.
+For example to install Scala 2.12 simply usesudo port install scala2.12
+Use Scastie to run single-file Scala programs in your browser using multiple Scala compilers; the production Scala 2.x compilers,
+Scala.js, Dotty, and Typelevel Scala. Save and share executable Scala code snippets.
+Try Scala in the browser via ScalaFiddle. This lets you run single-file Scala programs in your browser using Scala.js,
+including graphical/interactive examples such as Oscilloscope or Ray Tracer
+Get Ammonite, a popular Scala REPL
+Or are you looking for previous releases of Scala?
