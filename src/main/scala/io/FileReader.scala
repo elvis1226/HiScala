@@ -1,4 +1,4 @@
-
+package io
 import scala.io.Source
 
 object FileReader {
