@@ -22,6 +22,6 @@ object Nil extends List[Nothing] {
 
 object test {
   val test = new Cons("124", Nil)
-  
+
   val n : List[String]= Nil
 }
